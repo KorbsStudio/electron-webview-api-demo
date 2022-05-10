@@ -1,0 +1,13 @@
+{
+  "name": "electron-webview-demo",
+  "version": "0.2.2",
+  "description": "Demonstrating the WebView API",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "KorbsStudio",
+  "devDependencies": {
+    "electron": "^18.2.0"
+  }
+}
