@@ -51,7 +51,7 @@ Inspired by the Tab Tiling feature from Vivaldi, which is where you can view two
 
 You can view more about the [Tab Tiling feature from Vivaldi](https://vivaldi.com/blog/view-multiple-web-pages-side-by-side-no-extensions/).
 
-##### Adaptive Background Color
+#### Adaptive Background Color
 Change background of the application(That being Electron itself), to the faded color of the website's theme color.
 
 ```html
