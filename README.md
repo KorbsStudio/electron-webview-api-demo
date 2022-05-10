@@ -41,6 +41,7 @@ I recommend checking out [the official docs](https://www.electronjs.org/docs/lat
  - Developer Tools
  - Address Bar*
  - Useragent*
+
 and more...
 
 ### Future Plans
